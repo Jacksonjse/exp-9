@@ -40,7 +40,7 @@ export default function Login(){
         <button onClick={submit}>Login</button>
 
         <p className="text-center">
-          Not a user? <a href="/register">Register Here</a>
+          Not a user? <a href="/Register">Register Here</a>
         </p>
       </div>
     </div>
